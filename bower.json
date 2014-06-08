@@ -1,0 +1,25 @@
+{
+  "name": "j.js",
+  "main": "j.js",
+  "version": "0.0.0",
+  "authors": [
+    "Nick Bottomley <nhbottomley@gmail.com>"
+  ],
+  "description": "It's like jQuery, but faster",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "shortcut"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
